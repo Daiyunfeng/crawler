@@ -1,0 +1,5 @@
+图像识别
+pytesser是py2.x的 修改了部分源码后还是有好多bug 使用的pytesseract 和 tesseract-ocr
+把tesseract-ocr添加到环境变量 保证tesseract这个指令可用
+
+zhihuCopy还没有测试过 先试着爬豆瓣电影
